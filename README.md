@@ -1,2 +1,2 @@
-# flooring-calculator-start
-Starter files for the JavaScript Flooring Calculator project
+# web-project-template
+Template files for a website project
