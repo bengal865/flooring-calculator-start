@@ -1,9 +1,8 @@
 // Mike Jenkins
 // 05 OCT 20XX
-// Project
+// JS Flooring Calculator Project
 
-const greeting = 'Hello! How are you today?';
-console.log(greeting);
+
 
 
 
