@@ -11,6 +11,7 @@
 
 /* Define CSS variables */
 :root {
+  font-size: 16px;
   --aquamarine: rgb(127, 255, 212);
   --white: #fff;
 
