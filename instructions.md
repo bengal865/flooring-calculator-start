@@ -1,7 +1,7 @@
 ﻿# Project Title
 
 ## Submitting Your Work
- - Save your project files to a new GitHub repo named: ***test123-web***
+ - Save your project files to a new GitHub repo named: ***flooring-calculator-js***
  - Copy the web address (URL) that points to your repo and submit it on Google Classroom
 
 ## Sample Output
