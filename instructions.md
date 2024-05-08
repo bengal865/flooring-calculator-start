@@ -8,9 +8,9 @@
 
 Your finished project should look similar to this example:
 
-![Desert landscape in Mexico](desert-mexico.png "Mexican Desert")
+![Flooring Cost Calculator output](flooring-cost-output.png)
 
-*Desert in Mexico*
+*Flooring Cost Calculator output*
 
 ## Specifications
 
