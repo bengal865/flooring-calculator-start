@@ -16,13 +16,18 @@ Your finished project should look similar to this example:
 
 Build a web page that meets the following specifications:
 
- - Spec 1
- - Spec 2
+ - Displays project name as an <h1>
+ - Includes directions for the user
+ - Uses three (3) <input> elements (see screenshot)
+ - Uses a <button> element
+ - Displays the output in an HTML <p>
 
 ## Helpful Resources
 
- - About [HTML comments](https://www.w3schools.com/html/html_comments.asp)
- - Resource 2
+ - About [querySelector ( ) method](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_document_queryselector_class)
+ - [JS template strings](https://www.w3schools.com/js/js_string_templates.asp)
+ - [JS toFixed ( ) method](https://www.w3schools.com/jsref/jsref_tofixed.asp)
+ - [JS innerHTML property](https://www.w3schools.com/jsref/prop_html_innerhtml.asp)
  
 ## Directions
 
