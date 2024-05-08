@@ -8,7 +8,7 @@
 
 Your finished project should look similar to this example:
 
-![Flooring Cost Calculator output](flooring-cost-output.png)
+![Flooring Cost Calculator output](flooring-cost-output.PNG)
 
 *Flooring Cost Calculator output*
 
