@@ -16,11 +16,11 @@ Your finished project should look similar to this example:
 
 Build a web page that meets the following specifications:
 
- - Displays project name as an <h1>
+ - Displays project name as an h1
  - Includes directions for the user
- - Uses three (3) <input> elements (see screenshot)
- - Uses a <button> element
- - Displays the output in an HTML <p>
+ - Uses three (3) input elements (see screenshot)
+ - Uses a button element
+ - Displays the output in an HTML paragraph
 
 ## Helpful Resources
 
