@@ -29,9 +29,6 @@ Build a web page that meets the following specifications:
  - [JS toFixed ( ) method](https://www.w3schools.com/jsref/jsref_tofixed.asp)
  - [JS innerHTML property](https://www.w3schools.com/jsref/prop_html_innerhtml.asp)
  
-## Directions
 
- - Step 1
- - Step 2
 
 
